@@ -58,3 +58,7 @@ Join our community of developers creating universal apps.
 ## First React Native Exercise
 - Created the Expo application.
 - Practiced components and useState.
+
+## Version Control
+- Initialized Git.
+- Prepared the project for GitHub.
